@@ -1,0 +1,60 @@
+# 🧰 Tools & Technologies
+
+This document outlines the tools, libraries, and technologies used in the **Zomato Exploratory Data Analysis (EDA)** project. It is designed to clearly communicate the technical stack for academic evaluation, interviews, and portfolio review.
+
+---
+
+## 🐍 Programming Language
+
+* **Python 3.x** – Core language used for data analysis and visualization
+
+---
+
+## 📦 Core Python Libraries
+
+* **NumPy** – Numerical computing and array operations
+* **Pandas** – Data manipulation, cleaning, and analysis
+* **Matplotlib** – Data visualization and plotting
+* **Seaborn** – Statistical data visualization built on Matplotlib
+
+---
+
+## 📊 Data Visualization Techniques
+
+* Bar charts
+* Count plots
+* Histograms
+* Box plots
+* Heatmaps
+
+These visualizations help identify trends, patterns, and relationships in the dataset.
+
+---
+
+## 🧪 Development & Execution Environment
+
+* **Jupyter Notebook** – Interactive environment for analysis and visualization
+* **VS Code** (optional) – Code editing and version control support
+
+---
+
+## ⚙️ Dependency Installation
+
+All required libraries can be installed using the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 📌 Best Practices Followed
+
+* Modular and readable code structure
+* Clear variable naming conventions
+* Step-by-step exploratory workflow
+* Reproducible analysis using requirements file
+
+---
+
+This tools stack reflects industry-standard practices for data analysis and exploratory research.
